@@ -5,7 +5,7 @@ permalink: /about.html
 credits: true
 
 ---
-{% include feature/nav-menu.html sections="About the Collection" %}
+{% include feature/nav-menu.html sections="About the Collection, Collection Highlights, Access Resources" %}
 
 ## About the Collection
 
