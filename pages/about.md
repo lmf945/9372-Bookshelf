@@ -18,10 +18,10 @@ This curated collection bridges literature, history, and exploration, mapping ou
 
 ## Collection Highlights
 
-    -Global Exploration: True accounts of expeditions into remote frontiers.
-    -Historical Geographies: How maps and trade empires defined nations.
-    -Environment & Culture: The intersection of nature, resources, and human history.
-    -Complex Diplomacy: Gripping historical games of cat and mouse between competing nations.
+-- Global Exploration: True accounts of expeditions into remote frontiers.
+-- Historical Geographies: How maps and trade empires defined nations.
+-- Environment & Culture: The intersection of nature, resources, and human history.
+-- Complex Diplomacy: Gripping historical games of cat and mouse between competing nations.
 
 All resources in this repository are available through [Western Libraries](https://www.lib.uwo.ca/index.html). 
 
