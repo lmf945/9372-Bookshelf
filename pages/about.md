@@ -14,14 +14,15 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This curated collection bridges literature, history, and exploration, mapping out a diverse reading journey across continents and centuries. From historical geography and gripping true narratives to botanical histories and timeless mysteries, these works examine how landscapes shape human stories, exploration, and society.
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+**Collection Highlights**
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+    - Global Exploration: True accounts of expeditions into remote frontiers.
+    - Historical Geographies: How maps and trade empires defined nations.
+    - Environment & Culture: The intersection of nature, resources, and human history.
+    - Complex Diplomacy: Gripping historical games of cat and mouse between competing nations.
+
+All resources in this repository are available through Western Libraries holdings [Western Libraries](https://www.lib.uwo.ca/index.html). 
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
