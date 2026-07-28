@@ -15,8 +15,8 @@ credits: true
 ## About the Collection
 
 This curated collection bridges literature, history, and exploration, mapping out a diverse reading journey across continents and centuries. From historical geography and gripping true narratives to botanical histories and timeless mysteries, these works examine how landscapes shape human stories, exploration, and society.
-
 # Collection Highlights
+
 - Global Exploration: True accounts of expeditions into remote frontiers.
 - Historical Geographies: How maps and trade empires defined nations.
 - Environment & Culture: The intersection of nature, resources, and human history.
