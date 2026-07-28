@@ -5,7 +5,7 @@ permalink: /about.html
 credits: true
 
 ---
-{% include feature/nav-menu.html sections="About the Collection, Collection Highlights, Access Resources" %}
+{% include feature/nav-menu.html sections="About the Collection; Collection Highlights; Access Resources" %}
 
 ## About the Collection
 This curated collection bridges literature, history, and exploration, mapping out a diverse reading journey across continents and centuries. From historical geography and gripping true narratives to botanical histories and timeless mysteries, these works examine how landscapes shape human stories, exploration, and society.
