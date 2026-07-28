@@ -23,6 +23,6 @@ This curated collection bridges literature, history, and exploration, mapping ou
     - Environment & Culture: The intersection of nature, resources, and human history.
     - Complex Diplomacy: Gripping historical games of cat and mouse between competing nations.
 
-All resources in this repository are available through Western Libraries holdings [Western Libraries](https://www.lib.uwo.ca/index.html). 
+All resources in this repository are available through [Western Libraries](https://www.lib.uwo.ca/index.html). 
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
