@@ -5,7 +5,7 @@ permalink: /about.html
 credits: true
 
 ---
-{% include feature/nav-menu.html %}
+{% include feature/nav-menu.html sections="About the Collection, Collection Highlights, Access Resources" %}
 
 ## About the Collection
 This curated collection bridges literature, history, and exploration, mapping out a diverse reading journey across continents and centuries. From historical geography and gripping true narratives to botanical histories and timeless mysteries, these works examine how landscapes shape human stories, exploration, and society.
@@ -15,6 +15,7 @@ This curated collection bridges literature, history, and exploration, mapping ou
 - Historical Geographies: How maps and trade empires defined nations.
 - Environment & Culture: The intersection of nature, resources, and human history.
 - Complex Diplomacy: Gripping historical games of cat and mouse between competing nations.
+
 ## Access Resources
 All resources in this repository are available through [Western Libraries](https://www.lib.uwo.ca/index.html). 
 
