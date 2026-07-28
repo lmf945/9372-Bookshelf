@@ -7,7 +7,7 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-{% include feature/nav-menu.html sections="About the Collection"; "Access Resources"; "Build Your Own Collection" %}
+{% include feature/nav-menu.html sections="About the Collection";"Access Resources";"Build Your Own Collection" %}
 
 ## About the Collection
 
@@ -19,7 +19,7 @@ This curated collection bridges literature, history, and exploration, mapping ou
 - Environment & Culture: The intersection of nature, resources, and human history.
 - Complex Diplomacy: Gripping historical games of cat and mouse between competing nations.
 
-### Accessing Resources
+### Access Resources
 
 All resources in this repository are available through [Western Libraries](https://www.lib.uwo.ca/index.html). 
 
